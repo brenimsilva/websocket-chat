@@ -1,0 +1,12 @@
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\bin\Debug\net6.0\WebSocketServer.deps.json
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\bin\Debug\net6.0\WebSocketServer.dll
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\bin\Debug\net6.0\WebSocketServer.pdb
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfo.cs
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.dll
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\refint\WebSocketServer.dll
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\WebSocketServer.pdb
+C:\Users\breno\RiderProjects\WSNotification\WebSocketServer\obj\Debug\net6.0\ref\WebSocketServer.dll
